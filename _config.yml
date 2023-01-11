@@ -101,9 +101,6 @@ friends: [
     {
         title: "Home",
         href: "http://mark-mtr.github.io/News"
-    },{
-        title: "News Today"
-        href: "http://mark-mtr.github.io/News/2-tags"
     }
 ]
 
@@ -112,8 +109,5 @@ tags: [
     {
         title: "Home",
         href: "https://mark-mtr.github.io/News"
-    },{
-        title: "News Today",
-        href: "https://mark-mtr.github.io/News/2-tags"
     }
 ]
