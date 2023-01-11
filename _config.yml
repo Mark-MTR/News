@@ -6,7 +6,7 @@ email: gdmark2018@163.com,gdmark2009@outlook.com
 description: "News Today"
 keyword: "News Today"
 url: "https://mark-mtr.github.io/News"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/News"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Mark-MTR/mark-mtr.github.io/News" # you code repository
 
 # Sidebar settings
