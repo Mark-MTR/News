@@ -1,10 +1,10 @@
 # Site settings
-title: "News Today"
-SEOTitle: "新闻精选"
-header-img: "img/pic-home.png"
-email: "username@web.com"
+title: News Today
+SEOTitle: 新闻精选
+header-img: img/bg.png
+email: gdmark2018@163.com,gdmark2009@outlook.com
 description: "News Today"
-keyword: "News Today"
+keyword: "新闻精选"
 url: "https://mark-mtr.github.io/News"          # your host, for absolute URL
 baseurl: "/News"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Mark-MTR/News" # you code repository
@@ -64,10 +64,10 @@ gitalk:
   enable: false    #是否开启Gitalk评论
   clientID: d18b343dd9c7ca49518a                            #生成的clientID
   clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
-  repo: klovien.github.io    #仓库名称
-  owner: klovien    #github用户名
-  admin: klovien
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  repo: News    #仓库名称
+  owner: Mark-MTR    #github用户名
+  admin: Mark-MTR
+  distractionFreeMode: false #是否启用类似FB的阴影遮罩
 
 
 # 统计
@@ -95,19 +95,13 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 
-
-# 友情链接，请尽量不要删除，谢谢！
-friends: [
-    {
-        title: "Home",
-        href: "http://mark-mtr.github.io/News"
-    }
-]
-
 #标签
 tags: [
     {
         title: "Home",
         href: "https://mark-mtr.github.io/News"
+    },{
+        title: "Blog",
+        href: "https://mark-mtr.github.io/News/2-tags"
     }
 ]
