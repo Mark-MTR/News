@@ -8,7 +8,7 @@ keyword: "新闻精选"
 url: "https://mark-mtr.github.io/News"          # your host, for absolute URL
 baseurl: "/News"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Mark-MTR/News" # you code repository
-remote_theme: pages-themes/architect@v0.2.0
+theme: minima
 
 # Sidebar settings
 sidebar: false                           # whether or not using Sidebar.
