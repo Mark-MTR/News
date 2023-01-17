@@ -1,9 +1,9 @@
 # Site settings
 title: 新闻精选
-SEOTitle: 新闻精选
+SEOTitle: News Today
 header-img: img/bg.png
 email: gdmark2018@163.com gdmark2009@outlook.com
-description: "新闻精选"
+description: "新闻"
 keyword: "新闻精选"
 url: "https://mark-mtr.github.io/News"          # your host, for absolute URL
 baseurl: "/News"      # for example, '/blog' if your blog hosted on 'host/blog'
